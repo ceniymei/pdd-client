@@ -1,0 +1,17 @@
+{
+  "name": "pdd-client",
+  "version": "1.0.0",
+  "description": "PDD api client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ceniy.mei@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "moment": "^2.29.3",
+    "nodejs-md5": "^1.1.0",
+    "underscore": "^1.13.4"
+  }
+}
