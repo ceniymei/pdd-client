@@ -1,6 +1,6 @@
 {
   "name": "pdd-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PDD api client",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
     "axios": "^0.27.2",
     "moment": "^2.29.3",
     "nodejs-md5": "^1.1.0",
+    "promise-retry": "^2.0.1",
     "underscore": "^1.13.4"
   }
 }
